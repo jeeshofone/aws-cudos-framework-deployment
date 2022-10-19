@@ -6,7 +6,7 @@ zip -r cid-$CID_VERSION.zip ./python
 ls cid-$CID_VERSION.zip
 rm -rf ./python
 
-export AWS_REGION=us-east-1
+export AWS_REGION=ap-southeast-2
 export STACK_SET_NAME=LayerBuckets
 
 aws cloudformation list-stack-instances \
