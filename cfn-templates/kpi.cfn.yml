@@ -86,7 +86,7 @@ Mappings:
     kpiSourceTemplateId:
       Value: "kpi_dashboard"
     kpiViewsMetadataPath:
-      Value: "https://raw.githubusercontent.com/aws-samples/aws-cudos-framework-deployment/main/cfn-templates/views_kpi.json"
+      Value: "https://raw.githubusercontent.com/jeeshofone/aws-cudos-framework-deployment/main/cfn-templates/views_kpi.json"
     sharedAccountMapView:
       Value: "account_map"
     sharedSummaryView:

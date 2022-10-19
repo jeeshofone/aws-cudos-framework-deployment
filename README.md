@@ -77,4 +77,4 @@ This will produce a log file in the same directory that were at the tile of laun
 
 :heavy_exclamation_mark:Inspect the produced debug log for any sensitive information and anonymise it.
 
-We encourage you to open [new issue](https://github.com/aws-samples/aws-cudos-framework-deployment/issues/new) with description of the problem and attached debug log file.
+We encourage you to open [new issue](https://github.com/jeeshofone/aws-cudos-framework-deployment/issues/new) with description of the problem and attached debug log file.

@@ -195,8 +195,8 @@ Resources:
           DatabaseName: !Ref CURDatabaseName
           TableName: !Ref CURTableName
           AthenaWorkgroup: !Ref AthenaWorkgroup
-          ViewTemplatesUri: 'https://raw.githubusercontent.com/aws-samples/aws-cudos-framework-deployment/main/cid/builtin/core/data/queries'
-          ViewMetadataUri:  'https://raw.githubusercontent.com/aws-samples/aws-cudos-framework-deployment/main/cfn-templates'
+          ViewTemplatesUri: 'https://raw.githubusercontent.com/jeeshofone/aws-cudos-framework-deployment/main/cid/builtin/core/data/queries'
+          ViewMetadataUri:  'https://raw.githubusercontent.com/jeeshofone/aws-cudos-framework-deployment/main/cfn-templates'
                             
       Code:
         ZipFile: |
